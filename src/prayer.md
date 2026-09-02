@@ -116,6 +116,25 @@
 > 
 > Amen.
 
+### Grace Before Meals
+
+> Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ, our Lord. 
+> 
+> Amen.
+
+### Grace After Meals
+
+> We give thee thanks, for all thy benefits, Almighty God, who live and reign for ever.
+> [And may the souls of the faithful departed, through the mercy of God, rest in peace.]
+> 
+> Amen.
+
+### Guardian Angel Prayer
+
+> Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. 
+> 
+> Amen.
+
 ### Act of Contrition
 
 > O my God,  
@@ -150,6 +169,9 @@
 > show unto us the blessed fruit of thy womb, Jesus.  
 > O clement, O loving,  
 > O sweet Virgin Mary.  
+>
+> V. Pray for us, O Holy Mother of God.  
+> R. That we may be made worthy of the promises of Christ.  
 > 
 > Amen.
 

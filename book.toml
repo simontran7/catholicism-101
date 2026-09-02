@@ -2,3 +2,11 @@
 title = "catholicism-101"
 authors = ["Simon Tran"]
 language = "en"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
