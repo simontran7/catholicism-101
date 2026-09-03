@@ -31,3 +31,9 @@ Vocations
 Sexual morality
 Respect for human life
 Forgiveness, justice, etc. -->
+
+# Supernatural Events
+
+- [Eucharistic Miracles](./eucharistic-miracles.md)
+- [Marian Apparitions](./marian-apparitions.md)
+- [Mystical Phenomena](./mystical-phenomena.md) 
