@@ -2,7 +2,7 @@
 
 # What Catholics Believe
 
-- [The Trinity](./trinity.md)
+- [The Trinity](./the-trinity.md)
 - [The Church](./the-church.md)
 - [The Creed](./the-creed.md)
 - [Mary](./mary.md)
